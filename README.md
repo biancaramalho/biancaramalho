@@ -36,5 +36,4 @@
 </div>
   
 ##
-  
 ![Snake animation](https://github.com/biancaramalho/biancaramalho/blob/output/github-contribution-grid-snake.svg)
