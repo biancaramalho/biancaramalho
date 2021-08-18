@@ -1,5 +1,7 @@
 ### Olá, Bianca here 🖖
 
+I'm front-end developer and I've been working with JavaScript for a while, confess that I'm still learning. I'm currently delving into the concept of this language and all the amazing things we can build with it. I have studies and research in UI/UX as well and knowledge in HTML, CSS, React, NPM and Rest API. Tools such as VsCode, Figma and Illustrator.
+
  <div>
   <a href="https://github.com/biancaramalho">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=biancaramalho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
